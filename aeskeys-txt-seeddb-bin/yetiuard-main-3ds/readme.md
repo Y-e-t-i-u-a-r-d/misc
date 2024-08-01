@@ -1,2 +1,2 @@
 # yetiuard aeskeys.txt - My own AES keys!
-[source]https://pastebin.com/vRy8c6JP)
+[source](https://github.com/Yetiuard/misc/tree/main/aeskeys-txt-seeddb-bin/yetiuard-main-3ds)
